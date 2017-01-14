@@ -1,0 +1,82 @@
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe.config
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.exe
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.pdb
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.pdb
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_Login.resources
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_Main.resources
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_SignUp.resources
+C:\Users\Antor\Desktop\Term\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe.config
+C:\Users\Antor\Desktop\Term\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.exe
+C:\Users\Antor\Desktop\Term\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.pdb
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe.config
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.pdb
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AboutBox.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AddManageItem.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_BalanceSheet.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_CurrentItemBalance.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_EditUser.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_EmployeeInformation.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_ItemSalesReport.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_LogIn.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_PurchaseItem.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_PurchaseReport.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_SalesReport.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_SSMS.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Properties.Resources.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AddUser.resources
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csproj.GenerateResource.Cache
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.exe
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.pdb
+C:\Users\Antor\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csprojResolveAssemblyReference.cache
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe.config
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.exe
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.pdb
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.pdb
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csprojResolveAssemblyReference.cache
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AboutBox.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AddManageItem.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_BalanceSheet.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_CurrentItemBalance.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_EditUser.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_EmployeeInformation.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_ItemSalesReport.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_LogIn.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_PurchaseItem.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_PurchaseReport.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_SalesReport.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_SSMS.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Properties.Resources.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AddUser.resources
+E:\Shareit\Document\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csproj.GenerateResource.Cache
+E:\Utility\C D\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe.config
+E:\Utility\C D\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.exe
+E:\Utility\C D\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.pdb
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe.config
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.exe
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\bin\Debug\DepartmentalStore.pdb
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AboutBox.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AddManageItem.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_BalanceSheet.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_CurrentItemBalance.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_EditUser.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_EmployeeInformation.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_ExpenditureRecite.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_ExpenditureReport.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_ItemSalesReport.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_LogIn.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_PurchaseItem.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_PurchaseReport.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_SalesReport.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_SSMS.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Properties.Resources.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.Form_AddUser.resources
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csproj.GenerateResource.Cache
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.exe
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.pdb
+C:\Users\Mahdi\Documents\Visual Studio 2013\Projects\DepartmentalStore\DepartmentalStore\obj\Debug\DepartmentalStore.csprojResolveAssemblyReference.cache
